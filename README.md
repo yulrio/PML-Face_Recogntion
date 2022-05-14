@@ -9,4 +9,4 @@
 <p>&nbsp;</p><p>&nbsp;</p>
 <div align="center"><b>Sekolah Teknik Elektro dan Informatika</b></div>
 <div align="center"><b>Institut Teknologi Bandung</b></div>
-<div align="center"><b>Maret 2022</b></div>
+<div align="center"><b>Mei 2022</b></div>
